@@ -4,7 +4,7 @@ import style from './css/style.css'
 function NavBar(){
     return(
         <header>
-            <ul className='lista'>
+            <ul className='list-navbar'>
                 <li><button>Home</button></li>
                 <li><button>Productos</button></li>
                 <li><button>Nosotros</button></li>
