@@ -1,8 +1,10 @@
-import { useState } from 'react'
+import Header from './components/header/Header'
 
-function App() {
+function App () {
   return (
-    
+    <>
+      <Header />
+    </>
   )
 }
 

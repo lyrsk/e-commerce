@@ -1,0 +1,29 @@
+.app-bar {
+    background-color: black !important;
+}
+.logo {
+    font-size: 2em !important;
+    padding-left: 1em;
+}
+.MuiTabs-indicator  {
+    background-color: #E72391 !important;
+}
+.nav {
+    margin-left: auto !important;
+}
+
+.btn-login {
+    margin-left: auto !important;
+}
+
+.btn-login:hover, .btn-account:hover {
+    color: #E72391 !important;
+}
+
+.css-hyum1k-MuiToolbar-root {
+    padding: 0.650em 1em !important;
+}
+.css-1w1rijm-MuiButtonBase-root-MuiButton-root {
+    font-weight: 100 !important;
+    font-size: 0.750em !important;
+}
